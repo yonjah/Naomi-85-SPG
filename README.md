@@ -2,10 +2,10 @@ Naomi85 - Strong Password Generator
 ============
 
 You can read more about this generator in my blog -
-https://blog.non.co.il/index.php/naomi85-strong-password-generator/
+https://ca.non.co.il/index.php/naomi85-strong-password-generator/
 
 ניתן לקרוא עוד בבלוג -
-https://blog.non.co.il/index.php/%D7%A0%D7%A2%D7%9E%D7%9985-%D7%9E%D7%99%D7%99%D7%A6%D7%A8-%D7%A1%D7%99%D7%A1%D7%9E%D7%90%D7%95%D7%AA-%D7%97%D7%96%D7%A7%D7%95%D7%AA/
+https://ca.non.co.il/index.php/%D7%A0%D7%A2%D7%9E%D7%9985-%D7%9E%D7%99%D7%99%D7%A6%D7%A8-%D7%A1%D7%99%D7%A1%D7%9E%D7%90%D7%95%D7%AA-%D7%97%D7%96%D7%A7%D7%95%D7%AA/
 
 Notice of Copyrights and Licenses:
 
